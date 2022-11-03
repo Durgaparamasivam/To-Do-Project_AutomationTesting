@@ -1,0 +1,199 @@
+2022-11-02 21:37:49,735 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:37:49,739 +0530 [main] INFO  (SeleniumReusablies.java:161) - Unable to enter data in field ToDo Text box
+2022-11-02 21:40:38,594 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:40:43,604 +0530 [main] INFO  (SeleniumReusablies.java:161) - Unable to enter data in field ToDo Text box
+2022-11-02 21:42:39,279 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:42:44,288 +0530 [main] INFO  (SeleniumReusablies.java:161) - Unable to enter data in field ToDo Text boxnull
+2022-11-02 21:44:15,357 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:44:20,365 +0530 [main] INFO  (SeleniumReusablies.java:158) - Unable to enter data in field ToDo Text boxnull
+2022-11-02 21:46:45,828 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:46:51,046 +0530 [main] INFO  (SeleniumReusablies.java:153) - Entered data in field ToDo Text box
+2022-11-02 21:47:24,799 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:47:29,987 +0530 [main] INFO  (SeleniumReusablies.java:153) - Entered data in field ToDo Text box
+2022-11-02 21:48:17,781 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:48:18,095 +0530 [main] INFO  (SeleniumReusablies.java:153) - Entered data in field ToDo Text box
+2022-11-02 21:54:15,620 +0530 [main] INFO  (SeleniumReusablies.java:32) - Url opened
+2022-11-02 21:54:16,036 +0530 [main] INFO  (SeleniumReusablies.java:153) - Entered data in field ToDo Text box
+2022-11-03 10:31:17,493 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 10:31:17,790 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 10:31:17,879 +0530 [main] INFO  (SeleniumReusablies.java:617) - TextFirst Todo displayed in the list
+2022-11-03 10:35:36,649 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 10:35:36,838 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 10:35:36,942 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 10:38:24,026 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 10:38:24,268 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 10:38:24,403 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 10:38:24,631 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 10:38:24,867 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 10:38:24,945 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 10:40:28,676 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 10:40:28,788 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:01:34,558 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:01:34,762 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:01:34,838 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 11:01:34,970 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:01:35,119 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:01:35,178 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 11:01:35,248 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:03:36,672 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:03:36,846 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:03:36,938 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 11:03:37,091 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:03:37,351 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:03:37,433 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 11:03:37,529 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:06:33,743 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:06:33,920 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:06:34,017 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 11:06:34,137 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:06:34,325 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:06:34,386 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 11:06:34,457 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:09:58,633 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:09:58,814 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:09:58,894 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 11:09:59,020 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:09:59,167 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:09:59,232 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 11:09:59,319 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:13:36,222 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:13:36,405 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:13:36,484 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 11:13:36,627 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:13:36,778 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:13:36,858 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 11:13:36,942 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:18:49,613 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:18:49,781 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:18:49,878 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text First Todo displayed in the list
+2022-11-03 11:18:50,036 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:18:50,180 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:18:50,233 +0530 [main] INFO  (SeleniumReusablies.java:617) - Text Second Todo displayed in the list
+2022-11-03 11:18:50,303 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:23:46,395 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:23:46,551 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:23:47,649 +0530 [main] INFO  (SeleniumReusablies.java:618) - Text First Todo displayed in the list
+2022-11-03 11:23:47,779 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:23:47,925 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:23:50,020 +0530 [main] INFO  (SeleniumReusablies.java:618) - Text Second Todo displayed in the list
+2022-11-03 11:23:50,096 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:27:13,066 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:27:13,224 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:27:14,330 +0530 [main] INFO  (SeleniumReusablies.java:618) - Text First Todo displayed in the list
+2022-11-03 11:27:14,540 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:27:14,682 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:27:16,760 +0530 [main] INFO  (SeleniumReusablies.java:618) - Text Second Todo displayed in the list
+2022-11-03 11:27:16,867 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:30:38,461 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:30:38,773 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:30:39,923 +0530 [main] INFO  (SeleniumReusablies.java:618) - Text First Todo displayed in the list
+2022-11-03 11:30:41,316 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:30:41,504 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:30:43,612 +0530 [main] INFO  (SeleniumReusablies.java:618) - Text Second Todo displayed in the list
+2022-11-03 11:30:43,704 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:30:43,732 +0530 [main] INFO  (SeleniumReusablies.java:600) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:37:13,259 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:37:13,482 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:37:14,570 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:37:14,717 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:37:14,939 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:37:17,053 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:37:17,194 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:37:20,276 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:37:52,271 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:37:52,745 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:37:53,920 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:37:54,074 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:37:54,298 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:37:56,398 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:37:56,493 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:37:59,562 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:43:46,962 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:43:47,143 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:43:48,236 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:43:48,391 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:43:48,594 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:43:50,671 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:43:50,799 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:43:53,870 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:46:13,657 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:46:13,844 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:46:14,976 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:46:15,122 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:46:15,269 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:46:17,376 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:46:17,485 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:46:20,593 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:47:25,053 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:47:25,212 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:47:26,306 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:47:26,444 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:47:26,612 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:47:28,716 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:47:28,822 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:47:31,894 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:50:53,089 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:50:53,269 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:50:54,364 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:50:54,513 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:50:54,654 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:50:56,721 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:50:56,813 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:50:59,889 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:54:07,857 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:54:08,027 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:54:09,115 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text First Todo displayed in the list
+2022-11-03 11:54:09,257 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:54:09,407 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:54:11,509 +0530 [main] INFO  (SeleniumReusablies.java:619) - Text Second Todo displayed in the list
+2022-11-03 11:54:11,624 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:54:14,716 +0530 [main] INFO  (SeleniumReusablies.java:601) - Unable to click on element activeItemCheckBox null
+2022-11-03 11:55:02,838 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:55:03,265 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:55:04,414 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text First Todo displayed in the list
+2022-11-03 11:55:04,555 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:55:04,788 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:55:06,878 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text Second Todo displayed in the list
+2022-11-03 11:55:06,954 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:55:47,674 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:55:48,088 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:55:49,276 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text First Todo displayed in the list
+2022-11-03 11:55:49,468 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:55:49,715 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:55:51,807 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text Second Todo displayed in the list
+2022-11-03 11:55:51,906 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:55:57,985 +0530 [main] INFO  (SeleniumReusablies.java:595) - Clicked on field activeItemCheckBox
+2022-11-03 11:56:52,316 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:56:52,603 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:56:53,740 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text First Todo displayed in the list
+2022-11-03 11:56:53,897 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:56:54,117 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:56:56,211 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text Second Todo displayed in the list
+2022-11-03 11:56:56,337 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 11:57:02,394 +0530 [main] INFO  (SeleniumReusablies.java:595) - Clicked on field activeItemCheckBox
+2022-11-03 11:57:03,475 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text First Todo displayed in the list
+2022-11-03 11:59:44,595 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:59:44,794 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:59:45,904 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text First Todo displayed in the list
+2022-11-03 11:59:46,022 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 11:59:46,181 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 11:59:48,251 +0530 [main] INFO  (SeleniumReusablies.java:616) - Text Second Todo displayed in the list
+2022-11-03 11:59:48,376 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 12:01:44,958 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 12:01:45,136 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 12:01:46,226 +0530 [main] INFO  (SeleniumReusablies.java:613) - Text First Todo displayed in the list
+2022-11-03 12:01:46,383 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 12:01:46,552 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 12:01:48,651 +0530 [main] INFO  (SeleniumReusablies.java:613) - Text Second Todo displayed in the list
+2022-11-03 12:01:48,759 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 12:01:48,851 +0530 [main] INFO  (SeleniumReusablies.java:304) - Clicked on field activeItemCheckBox
+2022-11-03 12:01:49,904 +0530 [main] INFO  (SeleniumReusablies.java:613) - Text First Todo displayed in the list
+2022-11-03 12:03:05,593 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 12:03:05,775 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 12:03:06,888 +0530 [main] INFO  (SeleniumReusablies.java:613) - Text First Todo displayed in the list
+2022-11-03 12:03:07,044 +0530 [main] INFO  (SeleniumReusablies.java:33) - Url opened
+2022-11-03 12:03:07,196 +0530 [main] INFO  (SeleniumReusablies.java:154) - Entered data in field ToDo Text box
+2022-11-03 12:03:09,295 +0530 [main] INFO  (SeleniumReusablies.java:613) - Text Second Todo displayed in the list
+2022-11-03 12:03:09,365 +0530 [main] INFO  (SeleniumReusablies.java:117) - Text for the given webelement Todo item is First Todo
+2022-11-03 12:03:09,416 +0530 [main] INFO  (SeleniumReusablies.java:304) - Clicked on field activeItemCheckBox
+2022-11-03 12:03:10,478 +0530 [main] INFO  (SeleniumReusablies.java:613) - Text First Todo displayed in the list
